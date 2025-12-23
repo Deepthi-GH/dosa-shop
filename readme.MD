@@ -13,3 +13,8 @@
 * Dosa batter
 * oil 
 * single egg
+
+## Mushroom Dosa
+* Dosa Batter
+* Mushroom Masala
+* Oil
